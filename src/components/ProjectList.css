@@ -1,0 +1,8 @@
+.project a:hover {
+    cursor: pointer;
+    color: darkblue;
+}
+
+input[type="text"] {
+    width: 100%;
+}
