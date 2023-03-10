@@ -1,10 +1,11 @@
-<!-- ### Hi there 👋
+### Hi there 👋
 
 #### About me
 
-I work as a Frontender [LinkedIn](https://www.linkedin.com/in/anisa-askarova-b94878110) and being a self-taught developer still learning how to do it better. 
+I am a frontend developer, here is my profile on [LinkedIn](https://www.linkedin.com/in/anisa-askarova-b94878110);
+I love to learn, investigate and try new stuff. My favorite stack is React.js and Typescript, but I also love to play with Vue.js and Solid
 
-
+<!--
 **anisa07/anisa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
