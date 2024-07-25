@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 #### About me
-
-I am a frontend developer, here is my profile on [LinkedIn](https://www.linkedin.com/in/anisa-askarova-b94878110);
-I love to learn, investigate and try new stuff. My favorite stack is React.js and Typescript, but I also love to play with Vue.js and Solid
-
+I am an experienced frontend dev and test automation engineer with a solid background in React, Next.js, React Native, Node.js, Vue, Cypress. I have expertise in using modern CSS frameworks like Tailwind and Chakra UI to create visually appealing and responsive applications. My skill set includes both development and test automation, allowing me to deliver high-quality and reliable software solutions.
 <!--
 **anisa07/anisa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
